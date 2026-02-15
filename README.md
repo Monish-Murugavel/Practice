@@ -6,9 +6,8 @@ The goal of this repository is to build strong fundamentals through consistent p
 
 ## Structure
 
-python/
-├── functions/       # Function-based problems and exercises  
-├── dictionaries/    # Dictionary-related problems 
+= functions/       # Function-based problems and exercises  
+= dictionaries/    # Dictionary-related problems 
 
 ## Notes
 - Code here focuses on clarity and learning, not optimization
