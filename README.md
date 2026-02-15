@@ -12,3 +12,4 @@ during my first semester at university.
 
 ## Goal
 To build strong fundamentals and maintain consistency in coding practice.
+# Practice
