@@ -10,6 +10,10 @@ def find_first_error(log_data):
     for i in log_data:
         if i[1]=='ERROR':
             return(i[0])
-            break
+        break
 print(find_first_error(log_data))
+
+
+
+
 
