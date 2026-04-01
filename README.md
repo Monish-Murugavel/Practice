@@ -1,4 +1,4 @@
-🐍 Python Practice
+# 🐍 Python Practice
 
 A structured collection of my Python learning journey — from fundamentals to problem solving.
 
