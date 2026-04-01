@@ -1,15 +1,45 @@
-# Practice
+# 🐍 Python Practice
 
-This repository contains my regular programming practice and concept-based exercises.
+A structured collection of my Python learning journey — from fundamentals to problem solving.
 
-The goal of this repository is to build strong fundamentals through consistent practice.
+---
 
-## Structure
+## 📚 What This Repo Covers
 
-- functions       # Function-based problems and exercises  
-- dictionaries    # Dictionary-related problems 
+- Core Python Basics  
+- Functions & Modular Code  
+- Data Structures (Lists, Sets, Dictionaries)  
+- Problem Solving & Algorithms  
+- Searching & Sorting Techniques  
 
-## Notes
-- Code here focuses on clarity and learning, not optimization
-- Concepts are added progressively as I learn
-- This repository reflects consistency and steady improvement
+---
+
+## 🎯 Goals
+
+- Build strong programming fundamentals  
+- Improve problem-solving skills  
+- Write clean and efficient code  
+- Prepare for Data Structures & Algorithms  
+
+---
+
+## 🚀 Progress Philosophy
+
+Consistency > Intensity
+
+---
+
+## 🔧 Tech Used
+
+- Python  
+- Git & GitHub  
+
+---
+
+## 📈 Future Plans
+
+- Add more advanced DSA problems  
+- Optimize existing solutions  
+- Build small Python-based projects  
+
+---
