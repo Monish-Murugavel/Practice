@@ -23,12 +23,6 @@ A structured collection of my Python learning journey — from fundamentals to p
 
 
 
-## 🚀 Progress Philosophy
-
-Consistency > Intensity
-
-
-
 ## 🔧 Tech Used
 
 - Python  
